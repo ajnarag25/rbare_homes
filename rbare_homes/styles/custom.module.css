@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Tienne&display=swap');
+
+
+.bg_custom{
+    background-color: #395144 !important;
+}
+.custom_brand{
+    font-family: 'Tienne', serif;
+    font-size: 40px;
+    text-decoration: none;
+    color: white;
+}
+.custom_brand:hover{
+    color: rgb(236, 229, 229);
+}
+
+.custom_links{
+    font-family: 'Tienne', serif;
+    color: white;
+    margin-left: 20px;
+    font-size: 18px;
+    text-decoration: none;
+
+}
+.custom_links:hover{
+    color: rgb(236, 229, 229);
+}
+
+.custom_jumbotron{
+    color: black;
+    padding: 20px;
+    background-color: #F0EBCE;
+   
+}
+
+.textleft{
+    font-family: 'Tienne', serif;
+    position: absolute;
+    top: 70%;
+    left: 15%;
+    transform: translate(-50%, -50%);
+    font-size: 80px;
+}
