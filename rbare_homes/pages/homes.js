@@ -44,7 +44,7 @@ function index(){
                         <p class="card-text">S. Fernando Alazupar St.</p>
                     </div>
                     <div class="card-body">
-                        <button class="btn btn-primary w-100 btn-bg">Deatils</button>
+                        <button class="btn btn-primary w-100 btn-bg">Details</button>
                     </div>
                 </div>
             </div>
@@ -57,7 +57,7 @@ function index(){
                         <p class="card-text">M. Monterra Subd.</p>
                     </div>
                     <div class="card-body">
-                        <button class="btn btn-primary w-100 btn-bg">Deatils</button>
+                        <button class="btn btn-primary w-100 btn-bg">Details</button>
                     </div>
                 </div>
             </div>
@@ -70,7 +70,7 @@ function index(){
                         <p class="card-text">Leopardo Gendur 7703 St.</p>
                     </div>
                     <div class="card-body">
-                        <button class="btn btn-primary w-100 btn-bg">Deatils</button>
+                        <button class="btn btn-primary w-100 btn-bg">Details</button>
                     </div>
                 </div>
             </div>
@@ -83,7 +83,7 @@ function index(){
                         <p class="card-text">023 Topert Hogep Nuber.</p>
                     </div>
                     <div class="card-body">
-                        <button class="btn btn-primary w-100 btn-bg">Deatils</button>
+                        <button class="btn btn-primary w-100 btn-bg">Details</button>
                     </div>
                 </div>
             </div>
@@ -96,7 +96,7 @@ function index(){
                         <p class="card-text">Monterra Residence 788 Fd St.</p>
                     </div>
                     <div class="card-body">
-                        <button class="btn btn-primary w-100 btn-bg">Deatils</button>
+                        <button class="btn btn-primary w-100 btn-bg">Details</button>
                     </div>
                 </div>
             </div>
@@ -109,7 +109,7 @@ function index(){
                         <p class="card-text">P. Retro St.</p>
                     </div>
                     <div class="card-body">
-                        <button class="btn btn-primary w-100 btn-bg">Deatils</button>
+                        <button class="btn btn-primary w-100 btn-bg">Details</button>
                     </div>
                 </div>
             </div>

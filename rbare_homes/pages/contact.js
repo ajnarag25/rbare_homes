@@ -4,7 +4,9 @@ import styles from '../styles/custom.module.css'
 
 
 function index(){
+    
     return <div>
+        
     <nav class="navbar navbar-expand-lg navbar-light bg-light sticky-top">
         <div className="container">
             <a className={styles.custom_brand} href="#">RBare Homes Co.</a>
@@ -35,10 +37,6 @@ function index(){
         </div>
     </div>
 
-
-
-
-
     <div className="mt-4 p-5 text-center">
         <div className="row">
             
@@ -56,7 +54,7 @@ function index(){
                  <hr/>
                  <div class="row">
                         <div class="col-md-9 mb-md-0 mb-5">
-                            <form id="contact-form" name="contact-form" action="mail.php" method="POST">
+                            <form id="contact-form" name="contact-form" action="submit" method="POST">
                                 <div class="row">
                                     <div class="col-md-6">
                                         <div class="md-form mb-0">
@@ -121,11 +119,10 @@ function index(){
         <a className={styles.footer_link} href="#"> Rbare Homes Co.</a>
         </div>
     </footer>
-  
+
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-ygbV9kiqUc6oa4msXn9868pTtWMgiQaeYH7/t7LECLbyPA2x65Kgf80OJFdroafW" crossorigin="anonymous"></script>
     <script src="https://unpkg.com/boxicons@2.1.4/dist/boxicons.js"></script>
     </div>
-
 
 
 }
