@@ -17,10 +17,10 @@ function index(){
                     <a className="nav-link" href="/">Home</a>
                 </li>
                 <li class="nav-item">
-                    <a className="nav-link active" href="#">Contact</a>
+                    <a className="nav-link" href="homes">Explore Homes</a>
                 </li>
                     <li class="nav-item">
-                    <a className="nav-link" href="#">About  </a>
+                    <a className="nav-link active" href="#">Contact</a>
                 </li>			
             </ul>		  
             </div>

@@ -53,6 +53,7 @@
 
 
 .card_content{
+    font-family: 'Poppins', sans-serif;
     margin-top: 30px;
     padding: 100px;
 }
@@ -84,4 +85,36 @@
     padding: 100px;
     text-align: right;
     color: white;
+}
+
+
+.hero_house{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.678)), url('../public/house_lot.jpg');
+    height: 250px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+
+.contact_center{
+    font-family: 'Poppins', sans-serif;
+    padding: 100px; 
+    text-align: center;
+    color: white;
+}
+
+.titlehome{
+    font-family: 'Poppins', sans-serif;
+    font-size: 40px;
+}
+
+.titleteam{
+    font-family: 'Poppins', sans-serif;
+    font-size: 40px;
+}
+
+.teampic{
+    border-radius: 50%;
 }

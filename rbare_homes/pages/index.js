@@ -17,10 +17,10 @@ function index(){
                     <a className="nav-link active" href="#">Home</a>
                 </li>
                 <li class="nav-item">
-                    <a className="nav-link" href="contact">Contact</a>
+                    <a className="nav-link" href="homes">Explore Homes</a>
                 </li>
                     <li class="nav-item">
-                    <a className="nav-link" href="#">About  </a>
+                    <a className="nav-link" href="contact">Contact  </a>
                 </li>			
             </ul>		  
             </div>
@@ -58,15 +58,56 @@ function index(){
                  As a result, the town boasts of recreational tourist spots and a plaza, <br/> wherein jeepneys from different locations in
                  Laguna can be easily accessed.
                 </p>
+                <form action="homes">
+                    <button type="submit" class="btn btn-primary w-100 btn-bg">View Available House & Lot</button>
+                </form>
+                   
                 </div>
                
             </div>
         </div>
     </div>
 
+    <div className="mt-4 p-5 text-center">
+        <h3 className={styles.titleteam}>Meet Our Team</h3>
+        <br/>
+
+        <div className="row">
+        <br/>
+            <div className="col-md-4">
+                <img className={styles.teampic} src="./seph.jpg" width="300" alt="" />
+                <br/><br/>
+                <p className={styles.ptag}>Joseph John Azupardo</p>
+            </div>
+            <div className="col-md-4">
+                <img className={styles.teampic} src="./mel.jpg" width="300" alt="" />
+                <br/><br/>
+                <p className={styles.ptag}>Melisa Manalili</p>
+            </div>
+            <div className="col-md-4">
+                <img className={styles.teampic} src="./aj.png" width="300" alt="" />
+                <br/><br/>
+                <p className={styles.ptag}>Aj Narag</p>
+            </div>
+        </div>
+       
+        <br/>
+        <div className="row  justify-content-center">
+
+            <div className="col-md-4">
+                <img className={styles.teampic} src="./rai.jpg" width="300" alt="" />
+                <br/><br/>
+                <p className={styles.ptag}>Raiza Gumarang</p>
+            </div>
+            <div className="col-md-4 align-self-center">
+                <img className={styles.teampic} src="./sey.jpg" width="300" alt="" />
+                <br/><br/>
+                <p className={styles.ptag}>Kazzeah Mae Permejo</p>
+            </div>
+        </div>
+    </div>
 
     <footer class="text-center text-white mt-4 p-5">
-
         <div class="text-center text-dark p-3">
             © 2022 All Rights Reserved:
         <a className={styles.footer_link} href="#"> Rbare Homes Co.</a>
