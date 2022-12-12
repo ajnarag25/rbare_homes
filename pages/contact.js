@@ -9,20 +9,20 @@ function index(){
         
     <nav class="navbar navbar-expand-lg navbar-light bg-light sticky-top">
         <div className="container">
-            <a className={styles.custom_brand} href="#">RBare Homes Co.</a>
+            <Link className={styles.custom_brand} href="#">RBare Homes Co.</Link>
             <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span className="navbar-toggler-icon"></span>
             </button>
             <div class="collapse navbar-collapse justify-content-end" id="navbarSupportedContent">
             <ul class="navbar-nav ">
                 <li class="">
-                    <a className="nav-link" href="/">Home</a>
+                    <Link className="nav-link" href="/">Home</Link>
                 </li>
                 <li class="nav-item">
-                    <a className="nav-link" href="homes">Explore Homes</a>
+                    <Link className="nav-link" href="homes">Explore Homes</Link>
                 </li>
                     <li class="nav-item">
-                    <a className="nav-link active" href="#">Contact</a>
+                    <Link className="nav-link active" href="#">Contact</Link>
                 </li>			
             </ul>		  
             </div>
@@ -116,7 +116,7 @@ function index(){
     <footer class="text-center text-white mt-4 p-5">    
         <div class="text-center text-dark p-3">
             © 2022 All Rights Reserved:
-        <a className={styles.footer_link} href="#"> Rbare Homes Co.</a>
+        <Link className={styles.footer_link} href="#"> Rbare Homes Co.</Link>
         </div>
     </footer>
 
