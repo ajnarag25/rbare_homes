@@ -1,7 +1,7 @@
 // add bootstrap css 
 import 'bootstrap/dist/css/bootstrap.css'
 import styles from '../styles/custom.module.css'
-
+import Link from 'next/link';
 
 function index(){
     
