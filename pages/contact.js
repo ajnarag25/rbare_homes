@@ -42,7 +42,10 @@ function index(){
             
             <div className="col-md-4">
                 <div className={styles.card_custom}>
-                    <img className={styles.logo} src={"./contact.jpg"} width="500" alt="" />
+                    <picture>
+                        <img className={styles.logo} src={"./contact.jpg"} width="500" alt="" />
+                    </picture>
+                    
                 </div>
             </div>
             <br/>

@@ -38,7 +38,9 @@ function index(){
             <div className="col-md-4" id="readmore">
                 <br/>
                 <div class="card" >
-                    <img className={styles.logo} src="./house1.jpg" width="" alt="" />
+                    <picture>
+                        <img className={styles.logo} src="./house1.jpg" width="" alt="" />
+                    </picture>
                     <div class="card-body">
                         <h5 class="card-title">Rbare - Elana House Model</h5>
                         <p class="card-text">S. Fernando Alazupar St.</p>
@@ -51,7 +53,9 @@ function index(){
             <div className="col-md-4" id="readmore">
                 <br/>
                 <div class="card" >
-                    <img className={styles.logo} src="./house2.jpg" width="" alt="" />
+                    <picture>
+                        <img className={styles.logo} src="./house2.jpg" width="" alt="" />
+                    </picture>
                     <div class="card-body">
                         <h5 class="card-title">Rbare - Angelique House Model</h5>
                         <p class="card-text">M. Monterra Subd.</p>
@@ -64,7 +68,9 @@ function index(){
             <div className="col-md-4" id="readmore">
                 <br/>
                 <div class="card" >
-                    <img className={styles.logo} src="./house3.jpg" width="" alt="" />
+                    <picture>
+                        <img className={styles.logo} src="./house3.jpg" width="" alt="" />
+                    </picture>
                     <div class="card-body">
                         <h5 class="card-title">Rbare - Exquisite House Model</h5>
                         <p class="card-text">Leopardo Gendur 7703 St.</p>
@@ -77,7 +83,9 @@ function index(){
             <div className="col-md-4" id="readmore">
                 <br/>
                 <div class="card" >
-                    <img className={styles.logo} src={"./house4.jpg"} width="" alt="" />
+                    <picture>
+                        <img className={styles.logo} src={"./house4.jpg"} width="" alt="" />
+                    </picture>
                     <div class="card-body">
                         <h5 class="card-title">Rbare - Brinna sol House Model</h5>
                         <p class="card-text">023 Topert Hogep Nuber.</p>
@@ -90,7 +98,9 @@ function index(){
             <div className="col-md-4" id="readmore">
                 <br/>
                 <div class="card" >
-                    <img className={styles.logo} src={"./house5.jpg"} width="" alt="" />
+                    <picture>
+                        <img className={styles.logo} src={"./house5.jpg"} width="" alt="" />
+                    </picture>
                     <div class="card-body">
                         <h5 class="card-title">Rbare - Molina Terra House Model</h5>
                         <p class="card-text">Monterra Residence 788 Fd St.</p>
@@ -103,7 +113,9 @@ function index(){
             <div className="col-md-4" id="readmore">
                 <br/>
                 <div class="card" >
-                    <img className={styles.logo} src={"./house6.jpg"} width="" alt="" />
+                    <picture>
+                        <img className={styles.logo} src={"./house6.jpg"} width="" alt="" />
+                    </picture>
                     <div class="card-body">
                         <h5 class="card-title">Rbare - Polima Retro House Model</h5>
                         <p class="card-text">P. Retro St.</p>
