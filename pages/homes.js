@@ -29,7 +29,7 @@ function index(){
         </div>
     </nav>
  
-    <div className={styles.hero_house}>
+    <div className={styles.hero_house} style={{ backgroundImage: "url('./house_lot.jpg')"}}>
         <div className={styles.contact_center}>
         </div>
     </div>
@@ -41,7 +41,7 @@ function index(){
                 <br/>
                 <div class="card" >
                     <picture>
-                        <img className={styles.logo} src="./house1.jpg" width="" alt="" />
+                        <img className={styles.logo} src="./house1.jpg" width="300" alt="" />
                     </picture>
                     <div class="card-body">
                         <h5 class="card-title">Rbare - Elana House Model</h5>
@@ -56,7 +56,7 @@ function index(){
                 <br/>
                 <div class="card" >
                     <picture>
-                        <img className={styles.logo} src="./house2.jpg" width="" alt="" />
+                        <img className={styles.logo} src="./house2.jpg" width="300" alt="" />
                     </picture>
                     <div class="card-body">
                         <h5 class="card-title">Rbare - Angelique House Model</h5>
@@ -71,7 +71,7 @@ function index(){
                 <br/>
                 <div class="card" >
                     <picture>
-                        <img className={styles.logo} src="./house3.jpg" width="" alt="" />
+                        <img className={styles.logo} src="./house3.jpg" width="300" alt="" />
                     </picture>
                     <div class="card-body">
                         <h5 class="card-title">Rbare - Exquisite House Model</h5>
@@ -86,7 +86,7 @@ function index(){
                 <br/>
                 <div class="card" >
                     <picture>
-                        <img className={styles.logo} src={"./house4.jpg"} width="" alt="" />
+                        <img className={styles.logo} src={"./house4.jpg"} width="300" alt="" />
                     </picture>
                     <div class="card-body">
                         <h5 class="card-title">Rbare - Brinna sol House Model</h5>
@@ -101,7 +101,7 @@ function index(){
                 <br/>
                 <div class="card" >
                     <picture>
-                        <img className={styles.logo} src={"./house5.jpg"} width="" alt="" />
+                        <img className={styles.logo} src={"./house5.jpg"} width="300" alt="" />
                     </picture>
                     <div class="card-body">
                         <h5 class="card-title">Rbare - Molina Terra House Model</h5>
@@ -116,7 +116,7 @@ function index(){
                 <br/>
                 <div class="card" >
                     <picture>
-                        <img className={styles.logo} src={"./house6.jpg"} width="" alt="" />
+                        <img className={styles.logo} src={"./house6.jpg"} width="300" alt="" />
                     </picture>
                     <div class="card-body">
                         <h5 class="card-title">Rbare - Polima Retro House Model</h5>

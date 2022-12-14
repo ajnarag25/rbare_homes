@@ -28,7 +28,7 @@ function index(){
         </div>
     </nav>
  
-    <div className={styles.hero_bg}>
+    <div className={styles.hero_bg} style={{ backgroundImage: "url('./house.jpg')"}}>
         <div className={styles.textleft}>
         <h3 className={styles.titles}>Dream it, <br/> Claim it.</h3>
         <br/>

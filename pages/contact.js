@@ -30,7 +30,7 @@ function index(){
         </div>
     </nav>
  
-    <div className={styles.hero_contact}>
+    <div className={styles.hero_contact} style={{ backgroundImage: "url('./contact_bg.jpg')"}}>
         <div className={styles.contact_right}>
         <h3 className={styles.titles}>Contact</h3>
         <br/>
