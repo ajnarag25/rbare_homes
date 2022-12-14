@@ -5,7 +5,7 @@ import Link from 'next/link';
 
 function index(){
     
-    return <div>
+    return ( <div>
         
     <nav class="navbar navbar-expand-lg navbar-light bg-light sticky-top">
         <div className="container">
@@ -128,5 +128,5 @@ function index(){
     </div>
 
 
-}
+)}
 export default index;

@@ -4,7 +4,8 @@ import styles from '../styles/custom.module.css'
 import Link from 'next/link';
 
 function index(){
-    return <div>
+    return (
+    <div>
     <nav class="navbar navbar-expand-lg navbar-light bg-light sticky-top">
         <div className="container">
             <Link className={styles.custom_brand} href="#">RBare Homes Co.</Link>
@@ -140,7 +141,5 @@ function index(){
     <script src="https://unpkg.com/boxicons@2.1.4/dist/boxicons.js"></script>
     </div>
 
-
-
-}
+)}
 export default index;
