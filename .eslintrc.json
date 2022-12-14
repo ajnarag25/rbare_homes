@@ -3,6 +3,6 @@
   "rules": {
     // Other rules
     "@next/next/no-img-element": "off"
+     "extends": "next/core-web-vitals"
   }
-  "extends": "next/core-web-vitals"
 }
