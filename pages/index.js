@@ -44,7 +44,7 @@ function index(){
             
             <div className="col-md-4">
                 <div className={styles.card_custom}>
-                    <img className={styles.logo} src="./side_house.jpg" width="500" alt="" />
+                    <img className={styles.logo} src={"./side_house.jpg"} width="500" alt="" />
                 </div>
             </div>
             <br/>
@@ -75,17 +75,17 @@ function index(){
         <div className="row">
         <br/>
             <div className="col-md-4">
-                <img className={styles.teampic} src="./seph.jpg" width="300" alt="" />
+                <img className={styles.teampic} src={"./seph.jpg"} width="300" alt="" />
                 <br/><br/>
                 <p className={styles.ptag}>Joseph John Azupardo</p>
             </div>
             <div className="col-md-4">
-                <img className={styles.teampic} src="./mel.jpg" width="300" alt="" />
+                <img className={styles.teampic} src={"./mel.jpg"} width="300" alt="" />
                 <br/><br/>
                 <p className={styles.ptag}>Melisa Manalili</p>
             </div>
             <div className="col-md-4">
-                <img className={styles.teampic} src="./aj.png" width="300" alt="" />
+                <img className={styles.teampic} src={"./aj.png"} width="300" alt="" />
                 <br/><br/>
                 <p className={styles.ptag}>Aj Narag</p>
             </div>
@@ -95,12 +95,12 @@ function index(){
         <div className="row  justify-content-center">
 
             <div className="col-md-4">
-                <img className={styles.teampic} src="./rai.jpg" width="300" alt="" />
+                <img className={styles.teampic} src={"./rai.jpg"} width="300" alt="" />
                 <br/><br/>
                 <p className={styles.ptag}>Raiza Gumarang</p>
             </div>
             <div className="col-md-4 align-self-center">
-                <img className={styles.teampic} src="./sey.jpg" width="300" alt="" />
+                <img className={styles.teampic} src={"./sey.jpg"} width="300" alt="" />
                 <br/><br/>
                 <p className={styles.ptag}>Kazzeah Mae Permejo</p>
             </div>
